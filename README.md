@@ -15,6 +15,8 @@ A program that allows the user to AFK in Apex Legends games in order to either l
 # Need
 I added some screenshots for the bot but given teh fact that my monitor is HD i cant provide 2K or 4K images. If anyone can provide the screenshots that missing it would be helpfull. Check Python "Project/Game Assets"
 
+## IMPORTANT: TEH ABOVE CHANGES HAVE BEEN TESTED IN MY MONITOR FULL HD.
+
 # How to use it
 Go to ![image](https://user-images.githubusercontent.com/85963782/150718639-bec6b20b-f788-4d28-9315-25d33103b6ca.png) and download the latest release's installer (should be an exe.) Once downloaded, run the installer and if a popup appears saying "Windows protected your PC", click `more info` then `Run anyway`. Click `next` on the installer (making a desktop shortcut is recommended) then click `install` and `finish`.
 
