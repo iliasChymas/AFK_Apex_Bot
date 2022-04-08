@@ -1,0 +1,9 @@
+Changes Made:
+    Added full_hpHD.png 
+    Functionality: 
+        i) If apex is not opened when start buttons is pressed then it opens it and joins a match
+       ii) Changed a bit the confidence level on function "queue_into_game" it works all the time in my setup 
+Chages Needed: 
+    Add full_hp2K.png
+    Functionality:
+        i) Run headless via cmd
