@@ -3,7 +3,7 @@
 A program that allows the user to AFK in Apex Legends games in order to either lower their KD or get XP. This is especially useful for finishing the battlepass or getting an heirloom as it can get a substantial amount of XP in a short period of time. **Only works in 1080P and 1440P** (Your primary monitor for Apex has to be one of these resolutions, check quick fixes at the bottom for a work around.). Also, it is assummed that your jump key is space and your move forward key is w but allows you to choose your interact key and tactical key. 
 
 # Changes
-* The bot when press start it opens apex if its not corrently running and then its going to the lobby.
+* The bot when press start it opens apex if its not currently running and then its going to the lobby.
 * The bot chooses to play lifeline and while its taking damage from the zone it heals using syringes and its tactical ability. This adds about a minute in total survical time
 * Now u can launch the bot without using gui with "[ bot.exe or python bot.py ] healdess [ HD or 2K ] [ xp or kd ]. 
 * Make the Gui module OOP
